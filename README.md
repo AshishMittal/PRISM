@@ -61,4 +61,11 @@ Under the following terms:
 
 If you use this dataset in your research or project, please cite it as follows:
 
+@inproceedings{mittal2023speech,
+  title={Speech-enriched Memory for Inference-time Adaptation of ASR Models to Word Dictionaries},
+  author={Mittal, Ashish and Sarawagi, Sunita and Jyothi, Preethi and Saon, George and Kurata, Gakuto},
+  booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+  pages={14820--14835},
+  year={2023}
+}
 
